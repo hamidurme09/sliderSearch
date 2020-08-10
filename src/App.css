@@ -1,0 +1,35 @@
+body{
+  background-color: rosybrown;
+  margin: 0 auto;
+  width: 1024px;
+}
+
+.slider {
+  width: 50%;
+  height: 98.5%;
+  border: 0px solid white;
+
+}
+
+/* .slick-prev:before, .slick-next:before {
+    color: black;
+} */
+
+.slick-prev:before{
+  background-color: red;
+  color: black;
+}
+
+.slick-next:before{
+  background-color: blue;
+  color: black;
+}
+
+.slick-dots {
+  /* background-color: blue; */
+  color: red;
+}
+
+.slick-thumb{
+  /* background-color: red; */
+}
